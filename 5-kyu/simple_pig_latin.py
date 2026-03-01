@@ -1,3 +1,10 @@
+"""
+Kata: Simple Pig Latin
+Nivel: 5 kyu
+Enlace: https://www.codewars.com/kata/520b9d2ad5c005041100000f
+Descripción: Convierte una cadena a formato Pig Latin.
+"""
+
 def pig_it(text):
   if text == "":
     return ""
